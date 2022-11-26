@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BlazorDumpAnalysis": {
+      "commandName": "Project",
+      "commandLineArgs": "--process-id 29892 --roots"
+    }
+  }
+}
